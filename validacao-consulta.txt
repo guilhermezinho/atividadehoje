@@ -1,0 +1,3 @@
+Correção da validação do cadastro de consultas.
+
+O sistema deve verificar os campos obrigatórios antes de permitir o cadastro da consulta.
