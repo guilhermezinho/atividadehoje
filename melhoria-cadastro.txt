@@ -1,0 +1,3 @@
+Melhoria no cadastro de consultas.
+
+Os campos foram organizados para facilitar o preenchimento e melhorar a experiência do usuário.
